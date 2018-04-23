@@ -1,5 +1,5 @@
-# AMGC
+# AVGC
+Project Management Course UI example. 
 
-Project Management
-
-Created for project management course example. Input validations not functional. 
+Validations are hard coded for the example. Not functional.
+This project is just for viewing not functional purposes. 
